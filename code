@@ -1,0 +1,7 @@
+import yagmail
+import Tkinter
+
+# gui part, dk if this should be a seperate file or not lol
+
+top = Tkinter.Tk()
+top.mainloop()
